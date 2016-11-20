@@ -1,7 +1,7 @@
-#Title:		MirrorFASTA
+#Title:		MirrorFastaKB
 #Details:	Get the 'mirror' sequences of a FASTA file
 #Usage:		MirrorFASTA.sh [INPUT] [OUTPUT]
-#Author:		Kevin Blighe
+#Author:	Kevin Blighe
 #Date:		9th March 2016
 
 if [ $# -ne 2 ] ;
