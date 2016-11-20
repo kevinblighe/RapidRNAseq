@@ -5,7 +5,7 @@ Miscellaneous BASH or CSH scripts
 Execute with:
 <br>
 <code>MirrorFASTA.sh [INPUT] [OUTPUT]</code>
-<h2>RapidRNAseq - a wrapper for Kallisto</h2>
+<h2>RapidRNAseqv3.sh - a wrapper for Kallisto</h2>
 NB - requires a pre-existing kallisto installation, with the executables in the PATH variable
 <br>
 <i>*refer to RapidRNAseq.pdf for full instructions on usage</i>
