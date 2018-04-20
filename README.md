@@ -4,4 +4,7 @@ NB - requires a pre-existing kallisto (<a href="http://www.nature.com/nbt/journa
 <br>
 <i>*refer to RapidRNAseq.pdf for full instructions on usage</i>
 <h1>Credits</h1>
-Kevin Blighe; Michael Barnes
+<ul>
+  <li>Kevin Blighe (Queen Mary University of London)</li>
+  <li>Michael Barnes (Queen Mary University of London)</li>
+</ul>
